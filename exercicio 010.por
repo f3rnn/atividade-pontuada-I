@@ -6,7 +6,7 @@ programa {
 		real litros, desconto, precoAlcool, precoGasolina, totalPagar
 
 		//pedindo dados
-		escreva("qual combust�vel deseja? digite A para alcool e G para gasolina: ")
+		escreva("qual combustível deseja? digite A para alcool e G para gasolina: ")
 		leia(combustivel)
 		escreva("insira quantos litros: ")
 		leia(litros)
@@ -37,15 +37,15 @@ programa {
 			pare
 
 			caso contrario:
-			escreva("combust��vel n�o encontrado")
+			escreva("combustí­vel não encontrado")
 		}
-		escreva("total a pagar � R$", totalPagar)
+		escreva("total a pagar é R$", totalPagar)
 	}
 }
 /* $$$ Portugol Studio $$$ 
  * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
+ * Esta seÃ§Ã£o do arquivo guarda informaÃ§Ãµes do Portugol Studio.
+ * VocÃª pode apagÃ¡-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
