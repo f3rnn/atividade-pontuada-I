@@ -10,19 +10,19 @@ programa {
     //caso
     escolha(cor){
       caso "verde":
-      escreva("o valor È R$10,00")
+      escreva("o valor √© R$10,00")
       pare
       caso "azul":
-      escreva("o valor È R$20,00")
+      escreva("o valor √© R$20,00")
       pare
       caso "amarelo":
-      escreva("o valor È R$30,00")
+      escreva("o valor √© R$30,00")
       pare
       caso "vermelho":
-      escreva("o valor È R$40,00")
+      escreva("o valor √© R$40,00")
       pare
       caso contrario:
-      escreva("cor n„o encontrada na data base")
+      escreva("cor n√£o encontrada na data base")
     }
     }
   }
