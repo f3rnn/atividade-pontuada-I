@@ -4,10 +4,10 @@ programa {
     real pesoMorango, pesoMaca, precoMaca, precoMorango, valorTotal, pesoFrutas, precoFrutas
 
     //pedindo dados
-    escreva("quantos kg de morango ir· comprar? ")
+    escreva("quantos kg de morango ir√° comprar? ")
     leia(pesoMorango)
 
-    escreva("quantos kg de maÁ„ ir· comprar? ")
+    escreva("quantos kg de ma√ß√£ ir√° comprar? ")
     leia(pesoMaca)
 
     //contas
@@ -32,6 +32,6 @@ programa {
       valorTotal = precoFrutas
     }
     //exibindo resultados
-    escreva("o valor total da compra È: ", valorTotal)
+    escreva("o valor total da compra √©: ", valorTotal)
   }
 }
